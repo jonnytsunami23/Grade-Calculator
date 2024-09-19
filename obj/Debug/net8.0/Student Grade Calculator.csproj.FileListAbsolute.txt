@@ -1,0 +1,14 @@
+/Users/jonathanestrada/Desktop/Visual Studio Projects/C Sharp/Student Grade Calculator/bin/Debug/net8.0/Student Grade Calculator
+/Users/jonathanestrada/Desktop/Visual Studio Projects/C Sharp/Student Grade Calculator/bin/Debug/net8.0/Student Grade Calculator.deps.json
+/Users/jonathanestrada/Desktop/Visual Studio Projects/C Sharp/Student Grade Calculator/bin/Debug/net8.0/Student Grade Calculator.runtimeconfig.json
+/Users/jonathanestrada/Desktop/Visual Studio Projects/C Sharp/Student Grade Calculator/bin/Debug/net8.0/Student Grade Calculator.dll
+/Users/jonathanestrada/Desktop/Visual Studio Projects/C Sharp/Student Grade Calculator/bin/Debug/net8.0/Student Grade Calculator.pdb
+/Users/jonathanestrada/Desktop/Visual Studio Projects/C Sharp/Student Grade Calculator/obj/Debug/net8.0/Student Grade Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jonathanestrada/Desktop/Visual Studio Projects/C Sharp/Student Grade Calculator/obj/Debug/net8.0/Student Grade Calculator.AssemblyInfoInputs.cache
+/Users/jonathanestrada/Desktop/Visual Studio Projects/C Sharp/Student Grade Calculator/obj/Debug/net8.0/Student Grade Calculator.AssemblyInfo.cs
+/Users/jonathanestrada/Desktop/Visual Studio Projects/C Sharp/Student Grade Calculator/obj/Debug/net8.0/Student Grade Calculator.csproj.CoreCompileInputs.cache
+/Users/jonathanestrada/Desktop/Visual Studio Projects/C Sharp/Student Grade Calculator/obj/Debug/net8.0/Student Grade Calculator.dll
+/Users/jonathanestrada/Desktop/Visual Studio Projects/C Sharp/Student Grade Calculator/obj/Debug/net8.0/refint/Student Grade Calculator.dll
+/Users/jonathanestrada/Desktop/Visual Studio Projects/C Sharp/Student Grade Calculator/obj/Debug/net8.0/Student Grade Calculator.pdb
+/Users/jonathanestrada/Desktop/Visual Studio Projects/C Sharp/Student Grade Calculator/obj/Debug/net8.0/Student Grade Calculator.genruntimeconfig.cache
+/Users/jonathanestrada/Desktop/Visual Studio Projects/C Sharp/Student Grade Calculator/obj/Debug/net8.0/ref/Student Grade Calculator.dll
